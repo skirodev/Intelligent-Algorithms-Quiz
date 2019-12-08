@@ -1,1 +1,1 @@
-# Intelligent-Algorithm-Test
+# Intelligent-Algorithms-Quiz
